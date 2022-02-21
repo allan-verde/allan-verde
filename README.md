@@ -31,9 +31,3 @@
   
   ![Snake animation](https://github.com/allan-verde/allan-verde/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-  ##
-  
-### Projetos
-<a href="https://github.com/martachmlima/meu_paciente" target="_blank" >+ Saúde</a>
-  

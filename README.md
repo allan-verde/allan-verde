@@ -2,11 +2,11 @@
 
 __Eu sou um desenvolvedor brasileiro, a princípio voltado para aplicações web. Sou estudante da Kenzie Academy Brasil. No meu tempo livre gosto de jogar videogame, ouvir ou tocar música.__
 
-<div>
+<!-- <div>
   <a href="https://github.com/allan-verde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allan-verde&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-verde&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
   
   ##
   
